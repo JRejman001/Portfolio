@@ -7,5 +7,5 @@ a digital holographic microscope. (MATLAB image processing)
 
 USART_VHDL - contains VHDL files that were used to model, a USART device in QUARTUS II (FPGA, VHDL)
 
-EOG_Report - pdf file containg all of the LTSpice simulation designs and resaults, Fusion 360 Electronics circut design and PCB modeling
+EOG_Report - pdf file containg all of the LTSpice simulation designs and resaults, Fusion 360 Electronics circut design and PCB modeling.
 All of the simulations, most of circut design and the whole PCB making process were done by me
