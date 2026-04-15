@@ -12,3 +12,5 @@ All of the simulations, most of circut design and the whole PCB making process w
 
 I2C_sensor - code files containing an nRF SDK application of a program reading temprature and pressure from a bmp280 Bosh sensor through a I2C interface
 using a nRF9160DK board
+
+GPS_Tracker - folder contains files fot nRF SDK application of a program usisng GNSS to get a location fix, and than using Cellular conection to send the GPS data to a server. Connection uses CoAP protocol with DTLS for transmision seciurity.
